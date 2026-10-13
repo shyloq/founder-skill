@@ -1,0 +1,2 @@
+# Only needed for paper/live modes; backtesting is stdlib-only.
+ccxt>=4.0
